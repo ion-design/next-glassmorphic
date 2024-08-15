@@ -13,7 +13,7 @@ thank you to [@punctuations](https://github.com/punctuations/) for making this!
 
 ## Getting started
 
-[Download the ion VSCode plugin to get started](https://marketplace.visualstudio.com/items?itemName=iondesign.ion). After you make an account and start your trial, you can start generating from a prompt. This repo will give you examples of neobrutalist design generations.
+[Download the ion VSCode plugin to get started](https://marketplace.visualstudio.com/items?itemName=iondesign.ion). After you make an account and start your trial, you can start generating from a prompt. This repo will give you examples of glassmorphic design generations.
 
 ​
 **Enjoy!**
